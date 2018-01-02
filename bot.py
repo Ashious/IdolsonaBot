@@ -89,4 +89,4 @@ async def on_reaction_add(reaction, user):
             await asyncio.sleep(0.3)
             await reaction.message.add_reaction('🇪')
 
-client.run(process.env.BOT_TOKEN)
+client.run(BOT_TOKEN)
