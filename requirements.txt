@@ -1,8 +1,2 @@
 discord.py==0.10.0
-random
-asyncio
-logging
-emoji
-pathlib
-pickle
-time
+emoji==0.4.5
