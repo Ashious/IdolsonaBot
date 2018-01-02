@@ -1,7 +1,7 @@
 import discord
 import os
 import io
-from ProjectIdolsona import IdolsonaInfo
+import IdolsonaInfo
 
 filename = r'C:\Users\Hp\PycharmProjects\ProjectIdolsona\bot'
 client = discord.Client(max_messages=10000)
