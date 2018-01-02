@@ -1,0 +1,8 @@
+discord.py==0.10.0
+random
+asyncio
+logging
+emoji
+pathlib
+pickle
+time
